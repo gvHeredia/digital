@@ -1,4 +1,3 @@
-probando git con un archivito 
-agrego nueva linea y como la cambias??
-
-agrego algo
+En este repositorio la idea es ir subiendo ejemplos de codigos en lenguaje C 
+de diferentes lugares. 
+Lo utilisare como material para prepar las clases de programacion.
